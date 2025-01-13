@@ -1,5 +1,3 @@
-setwd("set/your/working/directory")
-
 library(SingleCellExperiment)
 library(Seurat)
 library(SeuratWrappers)
