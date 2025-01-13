@@ -14,8 +14,8 @@ library(tradeSeq)
 
 ########### load data ###########
 
-mock.data<-Read10X("./1.STARsolo/mock_Solo.out/GeneFull/filtered")
-C26.data<-Read10X("./1.STARsolo/C26_Solo.out/GeneFull/filtered")
+mock.data<-Read10X("../1.STARsolo/mock_Solo.out/GeneFull/filtered")
+C26.data<-Read10X("../1.STARsolo/C26_Solo.out/GeneFull/filtered")
 
 mock<-CreateSeuratObject(counts=mock.data,project='Mock',min.cells = 1,min.features = 10)
 C26<-CreateSeuratObject(counts=C26.data,project='C26',min.cells = 1,min.features = 10)
