@@ -1,11 +1,25 @@
-# Single-Bacterial Cell Insights into Mechanisms of Ceftriaxone Resistance in Neisseria subflava
+# Single-Bacterial Cell Insights into Mechanisms of Ceftriaxone Resistance in *Neisseria subflava*
 
-This project contains the R scripts of a single-bacterial RNAseq of Neisseria subflava to uncover the antibiotic resistance mechanism.
+This repository contains the R scripts for the single-bacterial RNA-seq analysis of *Neisseria subflava*. The study aims to uncover the mechanisms behind ceftriaxone resistance in this bacterial species.
 
-Manuscript
-Title: Single-Bacterial Cell Insights into Mechanisms of Ceftriaxone Resistance in Neisseria subflava
-DOI: pending
-Link: pending
+## Manuscript Details
 
-seurat.R describes the pipeline used for the single-bacterial transcriptome analysis.
+- **Title:** Single-Bacterial Cell Insights into Mechanisms of Ceftriaxone Resistance in *Neisseria subflava*  
+- **DOI:** Pending  
+- **Link:** Pending  
+
+## Contents of the Repository
+
+- `seurat.R`: R script detailing the pipeline used for single-bacterial transcriptome analysis.  
+
+## Overview
+
+This project leverages single-bacterial RNA-seq to identify and analyze the transcriptomic signatures associated with ceftriaxone resistance in *Neisseria subflava*. The analysis pipeline is implemented using [Seurat](https://satijalab.org/seurat/) for single-cell data analysis.  
+
+### Key Features
+
+- Single-bacterial RNA-seq pipeline tailored for *Neisseria subflava*  
+- Identification of genes and pathways contributing to ceftriaxone resistance  
+- Comprehensive R script (`seurat.R`) to reproduce the analysis  
+
 
