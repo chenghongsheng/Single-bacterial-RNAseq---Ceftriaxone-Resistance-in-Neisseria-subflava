@@ -1,1 +1,11 @@
+# Single-Bacterial Cell Insights into Mechanisms of Ceftriaxone Resistance in Neisseria subflava
+
+This project contains the R scripts of a single-bacterial RNAseq of Neisseria subflava to uncover the antibiotic resistance mechanism.
+
+Manuscript
+Title: Single-Bacterial Cell Insights into Mechanisms of Ceftriaxone Resistance in Neisseria subflava
+DOI: pending
+Link: pending
+
+seurat.R describes the pipeline used for the single-bacterial transcriptome analysis.
 
