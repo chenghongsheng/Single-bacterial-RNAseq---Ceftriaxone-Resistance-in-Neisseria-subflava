@@ -10,7 +10,8 @@ This repository contains the R scripts for the single-bacterial RNA-seq analysis
 
 ## Contents of the Repository
 
-- `seurat.R`: R script detailing the pipeline used for single-bacterial transcriptome analysis.  
+- `seurat.R`: R script detailing the pipeline used for single-bacterial transcriptome analysis.
+- `1.STARsolo`: count data matrices of the single bacterial RNAseq
 
 ## Overview
 
