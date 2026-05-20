@@ -5,8 +5,8 @@ This repository contains the R scripts for the single-bacterial RNA-seq analysis
 ## Manuscript Details
 
 - **Title:** Single-Bacterial Cell Insights into Mechanisms of Ceftriaxone Resistance in *Neisseria subflava*  
-- **DOI:** Pending  
-- **Link:** Pending  
+- **DOI:** https://doi.org/10.1038/s41467-026-68621-y
+- **Link:** https://www.nature.com/articles/s41467-026-68621-y 
 
 ## Contents of the Repository
 
